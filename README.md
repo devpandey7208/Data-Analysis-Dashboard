@@ -58,4 +58,7 @@ Insights Generated
 >Department-wise analysis helps identify areas requiring retention strategies.
 
 
+
+<img width="1208" height="548" alt="image" src="https://github.com/user-attachments/assets/ead4a668-dde9-486b-97b4-c51a98eaf3f4" />
+
 #Excel #HRAnalytics #Dashboard #DataAnalytics #DataVisualization #BusinessIntelligence #MicrosoftExcel #HRDashboard #DataAnalysis #PortfolioProject
