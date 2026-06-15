@@ -1,7 +1,8 @@
 ## Data-Analysis-Dashboard
 # HR Analytics Dashboard 
 This HR Analytics Dashboard provides a comprehensive overview of workforce metrics and employee attrition trends. Built using Microsoft Excel, the dashboard transforms raw HR data into actionable insights through interactive visualizations and KPI cards.
-Key Features
+
+##Key Features
 Employee Overview
 Total Employees: 1,470
 Active Employees: 1,233
@@ -30,11 +31,13 @@ KPI Cards
 Data Visualization
 Dashboard Design
 HR Analytics
-Project Objective
+##Project Objective
 The goal of this dashboard is to help HR professionals identify employee turnover patterns, understand workforce demographics, and support data-driven decision-making for employee retention and workforce planning.
 Insights Generated
 Highest attrition observed among employees aged 25–34.
 Bachelor's degree holders show the highest attrition count.
 Certain job roles contribute significantly more to overall attrition.
 Department-wise analysis helps identify areas requiring retention strategies.
+
+
 #Excel #HRAnalytics #Dashboard #DataAnalytics #DataVisualization #BusinessIntelligence #MicrosoftExcel #HRDashboard #DataAnalysis #PortfolioProject
