@@ -2,6 +2,8 @@
 # HR Analytics Dashboard 
 This HR Analytics Dashboard provides a comprehensive overview of workforce metrics and employee attrition trends. Built using Microsoft Excel, the dashboard transforms raw HR data into actionable insights through interactive visualizations and KPI cards.
 
+Data-set used:- https://docs.google.com/spreadsheets/d/1hHOauD2vEMBCBxkTtpC3sTgQQh9ELyTG/edit?gid=296240457#gid=296240457
+
 ##Key Features  
 
 
